@@ -1,0 +1,19 @@
+package playwrightSessions;
+
+public class PlaywrightBasics {
+
+	public static void main(String[] args) {
+
+
+		
+		Playwright playwright = Playwright.create();
+		
+		
+		
+		
+		
+		
+
+	}
+
+}
